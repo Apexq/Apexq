@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Apexq but my real name is beşir
-- 👀 I’m interested in web programming
-- 🌱 I’m currently learning js
+
+- 🌱 I’m currently learning new languages and deep mind machine learning
 - 📫 besir_secilmis@hotmail.com
 - 🪪<a href="https://www.linkedin.com/in/be%C5%9Fir-se%C3%A7ilmi%C5%9F-151751255/" target="_blank">My linkedin profile </a>
 
