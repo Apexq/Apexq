@@ -30,11 +30,3 @@
 - 📬 Email: besir_secilmis@hotmail.com
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/catppuccin-readme-stats/main/demo/github-metrics.svg" />
-</p>
-
----
-
-> 🎮 *“When imagination meets code, games are born.”*
