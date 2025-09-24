@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Apexq </h1>
 <h3 align="center">💻 Computer Engineering Student | 🎮 2D Game Developer </h3>
 
 <p align="center">
@@ -8,9 +7,7 @@
 ---
 
 ### 🌟 About Me
-- 🎓 2rd-year Computer Engineering student at Manisa Celal Bayar University  
-- 🔭 Currently working on a 2D Games and AI  
-- 🤖 Learning artificial intelligence and machine learning in my spare time
+- 🎓 3rd-year Computer Engineering student at Manisa Celal Bayar University  
 
 ---
 
