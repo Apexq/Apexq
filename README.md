@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Beşir Seçilmiş</h2>
-  <p><strong>Computer Engineering Student</strong></p>
+  <p><strong>Senior Computer Engineering Student</strong></p>
   <p>Systems, Networking & Cloud Infrastructure • Game Development</p>
   
   <p>
@@ -23,9 +23,15 @@
 
 ---
 
-### Certifications
+### 📜 Certifications
 
-- [**GitHub Actions Certification**](https://learn.microsoft.com/api/credentials/share/tr-tr/beirseilmi-3541/D1F8C4A883BD58A8?sharingId=F774FE3688756AA6) — Microsoft Learn
+<p>
+  <a href="https://learn.microsoft.com/api/credentials/share/tr-tr/beirseilmi-3541/D1F8C4A883BD58A8?sharingId=F774FE3688756AA6" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Actions-Certified-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions Certified" />
+  </a>
+</p>
+
+---
 
 ### Tech Stack & Tools
 
