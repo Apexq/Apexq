@@ -23,6 +23,10 @@
 
 ---
 
+### Certifications
+
+- [**GitHub Actions Certification**](https://learn.microsoft.com/api/credentials/share/tr-tr/beirseilmi-3541/D1F8C4A883BD58A8?sharingId=F774FE3688756AA6) — Microsoft Learn
+
 ### Tech Stack & Tools
 
 **Languages & Game Dev**
