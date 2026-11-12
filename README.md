@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Beşir Seçilmiş</h2>
-  <p><strong>Senior Computer Engineering Student</strong></p>
+  <p><strong>4th-year Computer Engineering Student</strong></p>
   <p>Systems, Networking & Cloud Infrastructure • Game Development</p>
   
   <p>
@@ -17,7 +17,7 @@
 
 ### About Me
 
-- 🎓 Final-year **Computer Engineering** student at **Manisa Celal Bayar University**.
+- 🎓 4th-year **Computer Engineering** student at **Manisa Celal Bayar University**.
 - 🌐 Focused on **System Administration, Computer Networks, and Cloud Infrastructure**, alongside **2D/3D Game Development**.
 - ⚙️ Interested in building scalable environments, automating workflows with CI/CD, and developing interactive mechanics in Unity.
 
